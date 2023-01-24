@@ -1,0 +1,22 @@
+.box1 {
+    height: 100vh;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box2 a {
+    width: 50%;
+}
+
+.box2 img {
+    width: 50%;
+}
